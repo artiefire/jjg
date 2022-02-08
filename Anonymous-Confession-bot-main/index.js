@@ -56,4 +56,4 @@ client.slashCommands = new Collection();
 });
 
 
-client.login('OTM5OTk1ODk4MjM3Mjk2NzQw.YgA9Zg.w1U0zjTJ8BSfQl4FGGqIIBOXQA4')
+client.login('TM5OTk1ODk4MjM3Mjk2NzQw.YgA9Zg.w1U0zjTJ8BSfQl4FGGqIIBOXQA4')
