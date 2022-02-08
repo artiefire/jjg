@@ -56,4 +56,4 @@ client.slashCommands = new Collection();
 });
 
 
-client.login('OTM5OTk1ODk4MjM3Mjk2NzQw.YgA9Zg.meYodIEIUh7GMIXQhhFAxLf0xjc')
+client.login('')
